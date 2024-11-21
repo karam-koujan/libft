@@ -1,6 +1,6 @@
 # libft
 <div align="center">
-<img src="https://github.com/karam-koujan/libft/blob/main/libft.webp" width="400" alt="libft logo"/>
+<img src="https://github.com/karam-koujan/libft/blob/main/libft.webp" width="500" alt="libft logo"/>
 </div>
 
 **libft** is a personal recreation of various functions from the standard C library (libc). This project aims to implement essential C functions such as memory management, string manipulation, and I/O operations from scratch, providing a deeper understanding of how C works at a low level. The goal is to improve memory management skills, gain hands-on experience in system-level programming, and enhance general problem-solving abilities.
